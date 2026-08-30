@@ -1,0 +1,9 @@
+logging in using static token
+Shard ID None has connected to Gateway (Session ID: 01bf0aec6c23bcd3625c529b63e29ba5).
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found: c-iad22-6b31bfec.discord.media:2096
+Voice connection complete.
+ffmpeg process 9228 successfully terminated with return code of 0.
+ffmpeg process 69864 successfully terminated with return code of 0.
+The voice handshake is being terminated for Channel ID 1527800675390455821 (Guild ID 1527800674681749665)
