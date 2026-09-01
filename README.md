@@ -10,3 +10,10 @@ Environment Setup:
 Run the requirements.txt
 You will need three terminals, one for main.py in discord, qwen, and main_pipeline.
 
+How to use:
+First follow the youtube video on the installation of adding a discord bot onto your server. Next, run !talk along with your message.
+
+Resources:
+https://huggingface.co/docs/transformers/main/en/model_doc/qwen3?usage=AutoModelForCausalLM#transformers.Qwen3ForCausalLM
+https://huggingface.co/IndexTeam/Index-TTS
+https://discordpy.readthedocs.io/en/stable/
